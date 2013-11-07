@@ -1,0 +1,13 @@
+{
+  "name":"zlik/phpcheck",
+  "description":"Property-based testing for PHP inspired by ScalaCheck",
+  "homepage":"https://github.com/zlik/phpcheck",
+  "license":"MIT",
+  "authors":[
+    {
+      "name":"Alex Zarichnyi",
+      "homepage":"https://github.com/zlik",
+      "role":"Maintainer"
+    }
+  ]
+}
